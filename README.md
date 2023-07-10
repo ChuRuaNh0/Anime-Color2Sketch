@@ -1,7 +1,7 @@
 # Anime2Sketch
 *Anime2Sketch: A sketch extractor for illustration, anime art, manga*
 
-By [Xiaoyu Xiang](https://engineering.purdue.edu/people/xiaoyu.xiang.1)
+By [ChuRuaNho](https://github.com/ChuRuaNh0)
 
 ![teaser demo](demos/vinland_saga.gif)
 
