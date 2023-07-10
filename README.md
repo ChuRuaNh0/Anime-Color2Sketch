@@ -1,7 +1,8 @@
 # Anime2Sketch
 *Anime2Sketch: A sketch extractor for illustration, anime art, manga*
+[Original repo](https://github.com/Mukosame/Anime2Sketch)
 
-By [ChuRuaNho](https://github.com/ChuRuaNh0)
+Modified upscale function and training by [ChuRuaNho](https://github.com/ChuRuaNh0)
 
 ![teaser demo](demos/vinland_saga.gif)
 
