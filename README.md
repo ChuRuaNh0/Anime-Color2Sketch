@@ -6,11 +6,11 @@ By [Xiaoyu Xiang](https://engineering.purdue.edu/people/xiaoyu.xiang.1)
 ![teaser demo](demos/vinland_saga.gif)
 
 
-## Updates
-- 2022.1.14: Add Docker environment by [**kitoria**](https://github.com/kitoriaaa)
+## Demo
+<!-- - 2022.1.14: Add Docker environment by [**kitoria**](https://github.com/kitoriaaa)
 - 2021.12.25: Update README. Merry Christmas!
-- 2021.5.24: Fix an interpolation error and a GPU inference error.
-- 2021.5.12: [Web Demo](https://gradio.app/g/AK391/Anime2Sketch) by [**AK391**](https://github.com/AK391)
+- 2021.5.24: Fix an interpolation error and a GPU inference error. -->
+<!-- - 2021.5.12: [Web Demo](https://gradio.app/g/AK391/Anime2Sketch) by [**AK391**](https://github.com/AK391) -->
 ![gradio_web_demo](figures/gradiodemo.png)
 - 2021.5.2: Upload more example results of anime video.
 - 2021.4.30: Upload the test scripts. Now our repo is ready to run!
@@ -92,29 +92,3 @@ And more anime results:
 ![demo4](demos/vinland_3.gif)
 ![demo5](demos/vinland_1.gif)
 
-## Contact
-[Xiaoyu Xiang](https://engineering.purdue.edu/people/xiaoyu.xiang.1).
-
-You can also leave your questions as issues in the repository. I will be glad to answer them!
-
-## License
-This project is released under the [MIT License](LICENSE).
-
-## Citations
-```BibTex
-@misc{Anime2Sketch,
-  author = {Xiaoyu Xiang, Ding Liu, Xiao Yang, Yiheng Zhu, Xiaohui Shen},
-  title = {Anime2Sketch: A Sketch Extractor for Anime Arts with Deep Networks},
-  year = {2021},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/Mukosame/Anime2Sketch}}
-}
-
-@inproceedings{xiang2022adversarial,
-  title={Adversarial Open Domain Adaptation for Sketch-to-Photo Synthesis},
-  author={Xiang, Xiaoyu and Liu, Ding and Yang, Xiao and Zhu, Yiheng and Shen, Xiaohui and Allebach, Jan P},
-  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
-  year={2022}
-}
-```
